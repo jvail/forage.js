@@ -1,6 +1,6 @@
 # forage.js
 
-Calculates forage field curing, harvest and storage losses.
+Calculates forage (grass-legume hay or silage) field curing, harvest and storage losses.
 
 ## Acknowledgements
 
