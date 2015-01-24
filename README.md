@@ -1,5 +1,7 @@
 # forage.js
 
+Calculates forage field curing, harvest and storage losses.
+
 ## Acknowledgements
 
 We gratefully acknowledge funding from the European Community´s 7th Framework Programme (FP7/2007-2013) under the grant 
